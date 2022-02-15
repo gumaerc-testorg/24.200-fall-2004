@@ -2,8 +2,13 @@
 content_type: resource
 description: Aristotle's study on substance in the categories, and substance in the
   metaphysics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-200-ancient-philosophy-fall-2004/966b9b904ae6ae40dca146c2cf310cbe_asubsthdo.pdf
+file: /media/courses/24-200-ancient-philosophy-fall-2004/966b9b904ae6ae40dca146c2cf310cbe_asubsthdo.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: asubsthdo.pdf
 uid: 966b9b90-4ae6-ae40-dca1-46c2cf310cbe
