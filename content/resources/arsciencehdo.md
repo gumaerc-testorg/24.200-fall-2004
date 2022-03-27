@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2ab5dc3-d40c-98ec-c4b0-f8ba67771a8d
 resourcetype: Document
 title: arsciencehdo.pdf
 uid: a7ac3ced-6a1e-a177-6cc1-4f10cf4c3d29

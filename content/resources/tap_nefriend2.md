@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7f0eb946-34ea-21a2-1d2e-c8fdcdd82f27
 resourcetype: Document
 title: tap_nefriend2.pdf
 uid: eff11036-bbb7-bb2b-1927-8dfb6d74c8ec

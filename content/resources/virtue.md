@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2ab5dc3-d40c-98ec-c4b0-f8ba67771a8d
 resourcetype: Document
 title: virtue.pdf
 uid: 805c632a-7527-7ba0-4cce-c779f8889770

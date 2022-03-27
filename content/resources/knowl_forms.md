@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2ab5dc3-d40c-98ec-c4b0-f8ba67771a8d
 resourcetype: Document
 title: knowl_forms.pdf
 uid: 783850da-cbf8-48bd-5423-a34e0212a6b0

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7f0eb946-34ea-21a2-1d2e-c8fdcdd82f27
 resourcetype: Document
 title: tap_avirtue.pdf
 uid: 0244a15b-f02d-a7e7-78ea-b8f0f6c72a18

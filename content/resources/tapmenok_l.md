@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7f0eb946-34ea-21a2-1d2e-c8fdcdd82f27
 resourcetype: Document
 title: tapmenok_l.pdf
 uid: 76a62d9a-1d03-d49c-dea8-e12f3d9f7ebf

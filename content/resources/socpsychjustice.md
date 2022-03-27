@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2ab5dc3-d40c-98ec-c4b0-f8ba67771a8d
 resourcetype: Document
 title: socpsychjustice.pdf
 uid: 4c708d22-c19e-1293-be9e-f9df11cf931a
