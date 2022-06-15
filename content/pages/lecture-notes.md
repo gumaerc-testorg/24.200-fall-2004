@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section provides information about the lectures and
+  the associated files of lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -45,7 +47,7 @@ Introduction
 Socrates and the Sophists
 {{< tdclose >}}
 {{< tdopen >}}
-Characteristic Socratic Theses ([PDF]({{< baseurl >}}/resources/soctheses))
+Characteristic Socratic Theses ({{% resource_link 87212c12-ea76-1b8a-76ef-12ae65f4fbb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Characteristic Socratic Theses ([PDF]({{< baseurl >}}/resources/soctheses))
 Socrates and the Law
 {{< tdclose >}}
 {{< tdopen >}}
-Characteristic Socratic Theses (cont.) ([PDF]({{< baseurl >}}/resources/soctheses))
+Characteristic Socratic Theses (cont.) ({{% resource_link 87212c12-ea76-1b8a-76ef-12ae65f4fbb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Characteristic Socratic Theses (cont.) ([PDF]({{< baseurl >}}/resources/socthes
 Socratic Method
 {{< tdclose >}}
 {{< tdopen >}}
-Euthyphro and the Elenchus ([PDF]({{< baseurl >}}/resources/euthyhdo))
+Euthyphro and the Elenchus ({{% resource_link 1772c321-d915-875b-db63-0a165988c3ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Euthyphro and the Elenchus ([PDF]({{< baseurl >}}/resources/euthyhdo))
 Knowledge and Learning
 {{< tdclose >}}
 {{< tdopen >}}
-Meno on Knowledge and Inquiry ([PDF]({{< baseurl >}}/resources/menoinq))
+Meno on Knowledge and Inquiry ({{% resource_link 42990f54-5337-ffe4-93c6-9ddb86cbd7e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Meno on Knowledge and Inquiry ([PDF]({{< baseurl >}}/resources/menoinq))
 Prudential Paradox
 {{< tdclose >}}
 {{< tdopen >}}
-Meno on Knowledge and Inquiry (cont.) ([PDF]({{< baseurl >}}/resources/menoinq))
+Meno on Knowledge and Inquiry (cont.) ({{% resource_link 42990f54-5337-ffe4-93c6-9ddb86cbd7e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Meno on Knowledge and Inquiry (cont.) ([PDF]({{< baseurl >}}/resources/menoinq)
 Immortality and the Soul
 {{< tdclose >}}
 {{< tdopen >}}
-Immortality in the Phaedo ([PDF]({{< baseurl >}}/resources/phaedo))
+Immortality in the Phaedo ({{% resource_link be480b55-4533-0e49-c081-92da208ee9a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Immortality in the Phaedo ([PDF]({{< baseurl >}}/resources/phaedo))
 Introduction of the Forms
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on Platonic Forms ([PDF]({{< baseurl >}}/resources/forms))
+Notes on Platonic Forms ({{% resource_link ba11e963-9316-9011-ca3f-b588a8cdcb60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Notes on Platonic Forms ([PDF]({{< baseurl >}}/resources/forms))
 Why Be Moral?
 {{< tdclose >}}
 {{< tdopen >}}
-Republic I-II ([PDF]({{< baseurl >}}/resources/repgoods))
+Republic I-II ({{% resource_link 07f33db3-454c-bf7b-4cb6-fab350d917ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Republic I-II ([PDF]({{< baseurl >}}/resources/repgoods))
 Justice in the City
 {{< tdclose >}}
 {{< tdopen >}}
-Social Justice and Psychic Justice in the Republic ([PDF]({{< baseurl >}}/resources/socpsychjustice))
+Social Justice and Psychic Justice in the Republic ({{% resource_link 4c708d22-c19e-1293-be9e-f9df11cf931a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Social Justice and Psychic Justice in the Republic ([PDF]({{< baseurl >}}/resour
 Justice in the Soul
 {{< tdclose >}}
 {{< tdopen >}}
-Social Justice and Psychic Justice in the Republic (cont.) ([PDF]({{< baseurl >}}/resources/socpsychjustice))
+Social Justice and Psychic Justice in the Republic (cont.) ({{% resource_link 4c708d22-c19e-1293-be9e-f9df11cf931a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Social Justice and Psychic Justice in the Republic (cont.) ([PDF]({{< baseurl >
 Theory of Forms
 {{< tdclose >}}
 {{< tdopen >}}
-Plato's Sun, Line, and Cave ([PDF]({{< baseurl >}}/resources/sunlinecave))
+Plato's Sun, Line, and Cave ({{% resource_link 9512959a-02ed-7f81-025b-0a84449fd408 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Plato's Sun, Line, and Cave ([PDF]({{< baseurl >}}/resources/sunlinecave))
 Happiness, Liberty, and Social Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-Plato on Happiness ([PDF]({{< baseurl >}}/resources/repsum))
+Plato on Happiness ({{% resource_link 81416a43-ca11-a619-c8c4-4b87a63f38b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,9 +191,9 @@ Plato on Happiness ([PDF]({{< baseurl >}}/resources/repsum))
 Aristotle on Plato
 {{< tdclose >}}
 {{< tdopen >}}
-Third Man Argument ([PDF]({{< baseurl >}}/resources/thirdman))  
+Third Man Argument ({{% resource_link 9f2211a1-e85c-e0c9-8d67-959c059a2924 "PDF" %}})  
   
-Aristotle's Categories and Early Thoughts on Substance ([PDF]({{< baseurl >}}/resources/arist1))
+Aristotle's Categories and Early Thoughts on Substance ({{% resource_link 28b5e0ab-5287-5961-f22a-8aa9770f9879 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +205,7 @@ Aristotle's Categories and Early Thoughts on Substance ([PDF]({{< baseurl >}}/re
 Matter and Form
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle's Categories II ([PDF]({{< baseurl >}}/resources/acat))
+Aristotle's Categories II ({{% resource_link 880ed236-8cb5-37f7-0061-1c8ea77b2717 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +217,7 @@ Aristotle's Categories II ([PDF]({{< baseurl >}}/resources/acat))
 Essence, God
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle's Four Causes ([PDF]({{< baseurl >}}/resources/4causes))
+Aristotle's Four Causes ({{% resource_link 3c14c6c6-d7c7-c945-8fe7-1f8813dcbfc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +229,7 @@ Aristotle's Four Causes ([PDF]({{< baseurl >}}/resources/4causes))
 On the Soul
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle on Science ([PDF]({{< baseurl >}}/resources/arsciencehdo))
+Aristotle on Science ({{% resource_link a7ac3ced-6a1e-a177-6cc1-4f10cf4c3d29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +241,7 @@ Aristotle on Science ([PDF]({{< baseurl >}}/resources/arsciencehdo))
 Perception, Understanding
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle on Primary Substance ([PDF]({{< baseurl >}}/resources/asubsthdo))
+Aristotle on Primary Substance ({{% resource_link 966b9b90-4ae6-ae40-dca1-46c2cf310cbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +253,7 @@ Aristotle on Primary Substance ([PDF]({{< baseurl >}}/resources/asubsthdo))
 Happiness
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle on the Human Good ([PDF]({{< baseurl >}}/resources/afunction))
+Aristotle on the Human Good ({{% resource_link 66565b93-124b-6b84-b9a2-7c9561d85bb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +265,7 @@ Aristotle on the Human Good ([PDF]({{< baseurl >}}/resources/afunction))
 Virtue
 {{< tdclose >}}
 {{< tdopen >}}
-The Greek Conception of Virtue ([PDF]({{< baseurl >}}/resources/greekvirtueshort))
+The Greek Conception of Virtue ({{% resource_link 340916a7-4de1-7750-8844-5f199f778388 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +277,7 @@ The Greek Conception of Virtue ([PDF]({{< baseurl >}}/resources/greekvirtueshort
 Weakness of Will
 {{< tdclose >}}
 {{< tdopen >}}
-Socrates on Weakness of Will (Akrasia) ([PDF]({{< baseurl >}}/resources/akrasia))
+Socrates on Weakness of Will (Akrasia) ({{% resource_link f98a2982-e6d0-da95-adfb-f47eb6608f7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +289,7 @@ Socrates on Weakness of Will (Akrasia) ([PDF]({{< baseurl >}}/resources/akrasia)
 Friendship
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle: Voluntary/Involuntary ([PDF]({{< baseurl >}}/resources/avolunt))
+Aristotle: Voluntary/Involuntary ({{% resource_link 4fa344a3-3581-1840-4862-fafdadc627cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +301,7 @@ Aristotle: Voluntary/Involuntary ([PDF]({{< baseurl >}}/resources/avolunt))
 Contemplation
 {{< tdclose >}}
 {{< tdopen >}}
-Epicurean Empiricism ([PDF]({{< baseurl >}}/resources/eplucre04))
+Epicurean Empiricism ({{% resource_link 42c6a55d-7d32-06df-1d27-a066cf7420aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +313,7 @@ Epicurean Empiricism ([PDF]({{< baseurl >}}/resources/eplucre04))
 Epicurean Atomism
 {{< tdclose >}}
 {{< tdopen >}}
-Lucretius on Death ([PDF]({{< baseurl >}}/resources/death04))
+Lucretius on Death ({{% resource_link bd347f11-38c1-9d97-9795-06a527e71e97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -323,7 +325,7 @@ Lucretius on Death ([PDF]({{< baseurl >}}/resources/death04))
 Epicurean Morality
 {{< tdclose >}}
 {{< tdopen >}}
-Lucretius on Death (cont.) ([PDF]({{< baseurl >}}/resources/death04))
+Lucretius on Death (cont.) ({{% resource_link bd347f11-38c1-9d97-9795-06a527e71e97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -335,7 +337,7 @@ Lucretius on Death (cont.) ([PDF]({{< baseurl >}}/resources/death04))
 Death
 {{< tdclose >}}
 {{< tdopen >}}
-Lucretius on Death (cont.) ([PDF]({{< baseurl >}}/resources/death04))
+Lucretius on Death (cont.) ({{% resource_link bd347f11-38c1-9d97-9795-06a527e71e97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
