@@ -6,6 +6,7 @@ file: /courses/24-200-ancient-philosophy-fall-2004/3c14c6c6d7c7c9458fe71f8813dcb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 4causes.pdf
 uid: 3c14c6c6-d7c7-c945-8fe7-1f8813dcbfc1
 ---
 Aristotle's introduction to the doctrine of four "causes" or explanatory factors.
-

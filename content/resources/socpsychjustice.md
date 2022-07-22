@@ -5,6 +5,7 @@ file: /courses/24-200-ancient-philosophy-fall-2004/4c708d22c19e1293be9ef9df11cf9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: socpsychjustice.pdf
 uid: 4c708d22-c19e-1293-be9e-f9df11cf931a
 ---
 A discussion about social justice, the tripartite soul, and psychic justice.
-
