@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information on course description, course
+  requirements, and evaluation criterion.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1a88bd5c-853b-3123-6a79-49fb215fb7e1
 ---
