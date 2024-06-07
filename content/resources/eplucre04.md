@@ -2,6 +2,7 @@
 content_type: resource
 description: An introduction to the philosophical community of Athens.
 file: /courses/24-200-ancient-philosophy-fall-2004/42c6a55d7d3206df1d27a066cf7420aa_eplucre04.pdf
+file_size: 71707
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

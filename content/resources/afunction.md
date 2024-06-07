@@ -2,6 +2,7 @@
 content_type: resource
 description: A discussion on human good and a well-ordered life.
 file: /courses/24-200-ancient-philosophy-fall-2004/66565b93124b6b84b9a27c9561d85bb9_afunction.pdf
+file_size: 69369
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

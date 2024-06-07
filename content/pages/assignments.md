@@ -33,7 +33,7 @@ There are 4 guidelines for using sources in your essays:
 
 ### Additional Information
 
-{{% resource_link "37819fac-eab2-4ac3-8846-d7dca2077841" "Citing and Using Sources" %}}
+[Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)
 
 ## Topics for the First Paper
 
