@@ -3,6 +3,7 @@ content_type: resource
 description: A discussion about the standard pattern of Socratic Elenchus, the Socratic
   quest for definitions, and related questions.
 file: /courses/24-200-ancient-philosophy-fall-2004/1772c321d915875bdb630a165988c3ac_euthyhdo.pdf
+file_size: 84574
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

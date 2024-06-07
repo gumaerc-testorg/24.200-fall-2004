@@ -2,6 +2,7 @@
 content_type: resource
 description: Aristotle's study on scientific knowledge and accidents.
 file: /courses/24-200-ancient-philosophy-fall-2004/a7ac3ced6a1ea1776cc14f10cf4c3d29_arsciencehdo.pdf
+file_size: 95484
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

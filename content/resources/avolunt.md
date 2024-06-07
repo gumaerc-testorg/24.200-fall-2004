@@ -3,6 +3,7 @@ content_type: resource
 description: A discussion on causes of voluntary and involuntarily actions, and responsibilities
   for these actions.
 file: /courses/24-200-ancient-philosophy-fall-2004/4fa344a3358118404862fafdadc627cc_avolunt.pdf
+file_size: 49258
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

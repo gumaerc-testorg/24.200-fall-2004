@@ -3,6 +3,7 @@ content_type: resource
 description: Aristotle's introduction to the doctrine of four "causes" or explanatory
   factors.
 file: /courses/24-200-ancient-philosophy-fall-2004/3c14c6c6d7c7c9458fe71f8813dcbfc1_4causes.pdf
+file_size: 58118
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

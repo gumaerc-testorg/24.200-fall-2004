@@ -2,6 +2,7 @@
 content_type: resource
 description: An argument on weakness of will, desires and actions, and possible responses.
 file: /courses/24-200-ancient-philosophy-fall-2004/f98a2982e6d0da95adfbf47eb6608f7c_akrasia.pdf
+file_size: 82113
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

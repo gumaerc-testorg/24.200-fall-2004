@@ -4,6 +4,7 @@ description: A discussion on the paradox of inquiry, what is the doctrine of rec
   related questions, the argument, possible responses, how does this function as a
   solution to the paradox of inquiry, evaluation of the argument.
 file: /courses/24-200-ancient-philosophy-fall-2004/42990f545337ffe493c69ddb86cbd7e2_menoinq.pdf
+file_size: 35620
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
