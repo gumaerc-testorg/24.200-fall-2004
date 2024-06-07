@@ -2,6 +2,7 @@
 content_type: resource
 description: A discussion about way of life and morality.
 file: /courses/24-200-ancient-philosophy-fall-2004/87212c12ea761b8a76ef12ae65f4fbb2_soctheses.pdf
+file_size: 46944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

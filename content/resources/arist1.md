@@ -2,6 +2,7 @@
 content_type: resource
 description: An introduction to Aristotle, Aristotle's categories, and change in physics.
 file: /courses/24-200-ancient-philosophy-fall-2004/28b5e0ab52875961f22a8aa9770f9879_arist1.pdf
+file_size: 80438
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
