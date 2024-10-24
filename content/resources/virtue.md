@@ -2,7 +2,7 @@
 content_type: resource
 description: A discussion about human excellence giving the definition of excellence,
   and virtue and responsibility.
-file: /courses/24-200-ancient-philosophy-fall-2004/805c632a75277ba04ccec779f8889770_virtue.pdf
+file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/805c632a75277ba04ccec779f8889770_virtue.pdf
 file_size: 79838
 file_type: application/pdf
 learning_resource_types:
