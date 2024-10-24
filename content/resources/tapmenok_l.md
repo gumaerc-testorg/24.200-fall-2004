@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assigned passage from the study of Meno for the text analysis presentation.
-file: /courses/24-200-ancient-philosophy-fall-2004/76a62d9a1d03d49cdea8e12f3d9f7ebf_tapmenok_l.pdf
+file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/76a62d9a1d03d49cdea8e12f3d9f7ebf_tapmenok_l.pdf
 file_size: 9977
 file_type: application/pdf
 learning_resource_types: []
