@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A text analysis presentation on Lucretius study on free will.
-file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/11bcd0dcba33f919cf49a88a1e19a2fd_tap_lucre2.pdf
+file: /courses/24-200-ancient-philosophy-fall-2004/11bcd0dcba33f919cf49a88a1e19a2fd_tap_lucre2.pdf
 file_size: 69081
 file_type: application/pdf
 learning_resource_types: []

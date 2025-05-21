@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A discussion about social justice, the tripartite soul, and psychic justice.
-file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/4c708d22c19e1293be9ef9df11cf931a_socpsychjustice.pdf
+file: /courses/24-200-ancient-philosophy-fall-2004/4c708d22c19e1293be9ef9df11cf931a_socpsychjustice.pdf
 file_size: 92729
 file_type: application/pdf
 learning_resource_types:

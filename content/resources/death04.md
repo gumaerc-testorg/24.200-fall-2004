@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A study on thoughts behind death and some questions regarding death.
-file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/bd347f1138c19d97979506a527e71e97_death04.pdf
+file: /courses/24-200-ancient-philosophy-fall-2004/bd347f1138c19d97979506a527e71e97_death04.pdf
 file_size: 51717
 file_type: application/pdf
 learning_resource_types:
