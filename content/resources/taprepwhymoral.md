@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A passage from the Plato's study for the text analysis presentation.
-file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/aaea37e561fd39caa7a2ddf4d7788fa0_taprepwhymoral.pdf
+file: /courses/24-200-ancient-philosophy-fall-2004/aaea37e561fd39caa7a2ddf4d7788fa0_taprepwhymoral.pdf
 file_size: 58308
 file_type: application/pdf
 learning_resource_types: []
