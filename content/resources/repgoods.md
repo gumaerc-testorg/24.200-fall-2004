@@ -2,7 +2,7 @@
 content_type: resource
 description: A discussion about the project of the Republic, division of goods, Glaucon's
   challenge, and accidental consequences.
-file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/07f33db3454cbf7b4cb6fab350d917ef_repgoods.pdf
+file: /courses/24-200-ancient-philosophy-fall-2004/07f33db3454cbf7b4cb6fab350d917ef_repgoods.pdf
 file_size: 105373
 file_type: application/pdf
 learning_resource_types:
