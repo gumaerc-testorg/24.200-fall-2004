@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of broadest classification of things which is the result of the
   Aristotle's study of the claims made by people.
-file: /courses/24-200-ancient-philosophy-fall-2004/880ed2368cb537f700611c8ea77b2717_acat.pdf
+file: /ol-ocw-studio-app/courses/24-200-ancient-philosophy-fall-2004/880ed2368cb537f700611c8ea77b2717_acat.pdf
 file_size: 62177
 file_type: application/pdf
 learning_resource_types:
